@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dilshad
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning diploma in computer engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I completed diploma in computer engineering
+- reach me at dilshadbnashref@gmail.com 
+
 
 <!---
 dlshd00/dlshd00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
