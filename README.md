@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dilshad
 - 👀 I’m interested in coding
-- react frontend development
+  
 - 🌱 I completed diploma in computer engineering
 - reach me at dilshadbnashref@gmail.com 
 - cyber security enthusiast
